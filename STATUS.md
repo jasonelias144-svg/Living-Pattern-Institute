@@ -18,15 +18,23 @@
 
 ## Open questions
 
-- For the founder: the licence. `LICENSE` is CC0 1.0, a public-domain
-  dedication, but the README says the intended model is CC BY-SA 4.0 for
-  writing and Apache 2.0 for software. Which is right? If it is the README's
-  model, should it apply to the other repositories too? (asked 2026-10-27)
+None.
 
 ## Noticed
 
 - Nothing else.
 
 ## Log
+
+- 2026-11-15 Claude: licence: CC0 1.0 (`LICENSE`), a public-domain
+  dedication, by the founder's decision of 2026-11-15: "Consider all free
+  and public and use the license we have been using and correct that license
+  when I naively chose the wrong one or none. Always consider it all public
+  if in a public repo." And: "Please ensure the right license is chosen that
+  is essentially a license that says there is no restrictions and all that.
+  No attribution required." `LICENSE` was already CC0; README.md ("Open
+  knowledge") no longer names CC BY-SA 4.0 and Apache 2.0. The open question
+  on the licence (asked 2026-10-27) is closed: CC0, and for the other
+  repositories too.
 
 - 2026-10-27 Claude: adopted the policy handbook. The README was left untouched.

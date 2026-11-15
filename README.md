@@ -104,10 +104,7 @@ Tela serves as the living research field. GitHub is intended to become the delib
 
 Open knowledge
 
-The intended licensing model is:
-
-* Knowledge, writing, documentation, diagrams, and pattern languages: CC BY-SA 4.0
-* Software and executable tooling: Apache License 2.0
+Everything here is dedicated to the public domain under CC0 1.0 (see LICENSE): knowledge, writing, documentation, diagrams, pattern languages and software alike. Anyone may use, change and build on it, for any purpose, without asking and without attribution.
 
 What enters the knowledge commons should remain available to the knowledge commons.
 
